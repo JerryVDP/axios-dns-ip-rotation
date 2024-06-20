@@ -1,0 +1,26 @@
+{
+  "name": "axios-dns-ip-rotation",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Make axios rotate between host's different IP addresses, very useful to distribute the load across hosts when using DNS based load balancer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JerryVDP/axios-dns-ip-rotation.git"
+  },
+  "keywords": [
+    "axios",
+    "load",
+    "balance",
+    "dns"
+  ],
+  "author": "Jerry VDP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JerryVDP/axios-dns-ip-rotation/issues"
+  },
+  "homepage": "https://github.com/JerryVDP/axios-dns-ip-rotation#readme"
+}
