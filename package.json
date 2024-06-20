@@ -1,7 +1,7 @@
 {
   "name": "axios-dns-ip-rotation",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.11",
   "description": "Make axios rotate between host's different IP addresses, very useful to distribute the load across hosts when using DNS based load balancer",
   "main": "index.js",
   "scripts": {
